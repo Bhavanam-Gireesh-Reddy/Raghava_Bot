@@ -1,0 +1,233 @@
+{
+  "verified_on": "2026-07-15",
+  "faq": [
+    {
+      "id": "FAQ-001",
+      "question": "What is the official company name used in the public website?",
+      "answer": "The public-facing brand is Raghava Projects. This dataset also uses the alias Raghava Real Estate Company for the user's project.",
+      "source_ids": [
+        "SRC-001"
+      ]
+    },
+    {
+      "id": "FAQ-002",
+      "question": "Where is Raghava Projects based?",
+      "answer": "Its public corporate office is listed at G Square Building beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana.",
+      "source_ids": [
+        "SRC-004"
+      ]
+    },
+    {
+      "id": "FAQ-003",
+      "question": "What is the official contact number?",
+      "answer": "+91 9289 212 121.",
+      "source_ids": [
+        "SRC-004"
+      ]
+    },
+    {
+      "id": "FAQ-004",
+      "question": "Which projects are listed on the official portfolio?",
+      "answer": "IRIS, WAVE, SAGE, CINQ and NOVA.",
+      "source_ids": [
+        "SRC-003"
+      ]
+    },
+    {
+      "id": "FAQ-005",
+      "question": "Which project offers 4 and 6 BHK apartments?",
+      "answer": "IRIS by Raghava.",
+      "source_ids": [
+        "SRC-005"
+      ]
+    },
+    {
+      "id": "FAQ-006",
+      "question": "What is the IRIS RERA number?",
+      "answer": "P02400005078.",
+      "source_ids": [
+        "SRC-005"
+      ]
+    },
+    {
+      "id": "FAQ-007",
+      "question": "What is special about IRIS?",
+      "answer": "Its official site highlights a Sky Island connecting three towers, 45-floor towers, private elevators and a 52,000 sq ft clubhouse.",
+      "source_ids": [
+        "SRC-005"
+      ]
+    },
+    {
+      "id": "FAQ-008",
+      "question": "Which project has a Sky Bridge?",
+      "answer": "WAVE by Raghava; the official site places the Sky Bridge on the nineteenth floor.",
+      "source_ids": [
+        "SRC-007"
+      ]
+    },
+    {
+      "id": "FAQ-009",
+      "question": "What are the WAVE apartment sizes?",
+      "answer": "The official floor-plan page lists 3 BHK layouts from 1,660 to 1,930 sq ft.",
+      "source_ids": [
+        "SRC-008"
+      ]
+    },
+    {
+      "id": "FAQ-010",
+      "question": "What is the WAVE RERA number?",
+      "answer": "P01100007254.",
+      "source_ids": [
+        "SRC-007"
+      ]
+    },
+    {
+      "id": "FAQ-011",
+      "question": "Which project contains private-pool villas?",
+      "answer": "SAGE by Raghava.",
+      "source_ids": [
+        "SRC-010"
+      ]
+    },
+    {
+      "id": "FAQ-012",
+      "question": "How many villas are in SAGE?",
+      "answer": "169 villas are stated on the official project site.",
+      "source_ids": [
+        "SRC-010"
+      ]
+    },
+    {
+      "id": "FAQ-013",
+      "question": "What plot sizes are offered at SAGE?",
+      "answer": "The project site states 335 to 400 square yards, with east- and west-facing options.",
+      "source_ids": [
+        "SRC-010"
+      ]
+    },
+    {
+      "id": "FAQ-014",
+      "question": "Does SAGE provide EV charging?",
+      "answer": "The specifications state a provision for one EV charging point for each villa.",
+      "source_ids": [
+        "SRC-013"
+      ]
+    },
+    {
+      "id": "FAQ-015",
+      "question": "What is the SAGE RERA number?",
+      "answer": "P01100008686.",
+      "source_ids": [
+        "SRC-010"
+      ]
+    },
+    {
+      "id": "FAQ-016",
+      "question": "Where is CINQ located?",
+      "answer": "Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032.",
+      "source_ids": [
+        "SRC-015"
+      ]
+    },
+    {
+      "id": "FAQ-017",
+      "question": "How large are CINQ apartments?",
+      "answer": "The official site states 3,575 to 3,644 sq ft.",
+      "source_ids": [
+        "SRC-015"
+      ]
+    },
+    {
+      "id": "FAQ-018",
+      "question": "What is CINQ's configuration?",
+      "answer": "4 BHK residences with a maid room.",
+      "source_ids": [
+        "SRC-015"
+      ]
+    },
+    {
+      "id": "FAQ-019",
+      "question": "What is the CINQ RERA number?",
+      "answer": "P02400009341.",
+      "source_ids": [
+        "SRC-015"
+      ]
+    },
+    {
+      "id": "FAQ-020",
+      "question": "How many towers does CINQ have?",
+      "answer": "Five towers.",
+      "source_ids": [
+        "SRC-015"
+      ]
+    },
+    {
+      "id": "FAQ-021",
+      "question": "What is NOVA's basic configuration?",
+      "answer": "Two towers, 61 floors, 3 BHK residences on a 7.02-acre site.",
+      "source_ids": [
+        "SRC-019"
+      ]
+    },
+    {
+      "id": "FAQ-022",
+      "question": "What is the NOVA unit-size range?",
+      "answer": "The headline range is 2,038 to 2,605 sq ft, but the plan page includes one 2,606 sq ft layout. The discrepancy should be disclosed.",
+      "source_ids": [
+        "SRC-019",
+        "SRC-021"
+      ]
+    },
+    {
+      "id": "FAQ-023",
+      "question": "What is Sky62?",
+      "answer": "NOVA's elevated amenity level, stated as approximately 81,000 sq ft, with fitness, leisure, viewing and outdoor-sport spaces.",
+      "source_ids": [
+        "SRC-019",
+        "SRC-020"
+      ]
+    },
+    {
+      "id": "FAQ-024",
+      "question": "What is the NOVA RERA number?",
+      "answer": "P02400010373.",
+      "source_ids": [
+        "SRC-019"
+      ]
+    },
+    {
+      "id": "FAQ-025",
+      "question": "What are the current prices?",
+      "answer": "The official pages reviewed do not provide a reliable current price list. Contact the developer and verify the latest official cost sheet.",
+      "source_ids": [
+        "SRC-004"
+      ]
+    },
+    {
+      "id": "FAQ-026",
+      "question": "What is the possession date for every project?",
+      "answer": "The corpus does not contain verified possession dates for every project. Check the current TG-RERA records and signed sale documents.",
+      "source_ids": [
+        "SRC-024"
+      ]
+    },
+    {
+      "id": "FAQ-027",
+      "question": "Is the company guaranteed to deliver every promised amenity?",
+      "answer": "No guarantee can be inferred from this dataset. Website descriptions must be checked against RERA filings, sanctioned plans and the agreement for sale.",
+      "source_ids": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    },
+    {
+      "id": "FAQ-028",
+      "question": "Can this dataset be used as legal advice?",
+      "answer": "No. It is a public-information RAG training corpus and not legal, financial or investment advice.",
+      "source_ids": [
+        "SRC-023",
+        "SRC-024"
+      ]
+    }
+  ]
+}

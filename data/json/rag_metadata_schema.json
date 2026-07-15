@@ -1,0 +1,28 @@
+{
+  "recommended_chunk_metadata": {
+    "doc_id": "stable document identifier",
+    "chunk_id": "stable chunk identifier",
+    "title": "human-readable title",
+    "section": "heading or semantic section",
+    "project_id": "optional project identifier",
+    "project_name": "optional project name",
+    "source_ids": "list of source catalog identifiers",
+    "source_type": "official_company_website | official_project_website | official_government",
+    "source_url": "primary URL",
+    "verified_on": "YYYY-MM-DD",
+    "confidence": "high | medium_high | medium | low",
+    "claim_type": "verified_fact | developer_stated | derived_comparison | knowledge_gap | regulatory_context",
+    "rera_number": "optional",
+    "location": "optional locality/city/state",
+    "tags": "search and filtering tags",
+    "requires_live_verification": "boolean",
+    "access_control": "public"
+  },
+  "retrieval_guidance": [
+    "Prefer official project sources over secondary summaries.",
+    "Use project_id or RERA-number metadata filters for project-specific questions.",
+    "Return an insufficient-evidence answer for price, inventory, possession and legal-entity questions unless current official records are retrieved.",
+    "Surface conflicting official values instead of silently choosing one.",
+    "Cite source IDs and URLs in generated answers."
+  ]
+}

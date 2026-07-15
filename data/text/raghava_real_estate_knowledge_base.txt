@@ -1,0 +1,240 @@
+RAGHAVA REAL ESTATE COMPANY (RAGHAVA PROJECTS)
+PUBLIC INFORMATION KNOWLEDGE BASE FOR RAG
+Verified on: 2026-07-15
+
+IMPORTANT SCOPE NOTE
+This is a training and retrieval corpus built from public information. It is not an official brochure, legal opinion, investment recommendation, price quotation, or contractual promise. Marketing claims are paraphrased and should be verified against TG-RERA records and signed documents.
+
+1. COMPANY PROFILE
+Canonical Name: Raghava Projects
+Dataset Alias: Raghava Real Estate Company
+Industry: Real estate development and construction
+Headquarters City: Hyderabad
+Headquarters State: Telangana
+Country: India
+Official Website: https://raghava.world/
+Official Phone: +91 9289 212 121
+General Email: info@raghava.world
+Sales Email: sales@raghava.world
+Corporate Office: 4th Floor, G Square Building, beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana, India
+Company Summary: Raghava Projects presents itself as a Hyderabad-based premium real-estate developer focused on high-rise residences, villa communities, engineering-led construction, curated amenities, and luxury urban living.
+Vision Paraphrase: Redefine premium living through landmark structures, engineering excellence, carefully selected amenities, and curated residential experiences.
+Mission Paraphrase: Bring high-quality design and service into each project, build enduring customer relationships, and strengthen the brand's position in premium real estate.
+Establishment Claim: An official project microsite states that the wider Raghava organization was established in 1991.
+Legal Identity Note: The public brand and project websites were verified. This dataset does not assert that any similarly named corporate registry entity is the exact legal promoter unless the project RERA record is checked directly.
+
+2. OFFICIAL PROJECT PORTFOLIO
+
+PROJECT: IRIS by Raghava (RAG-IRIS)
+Location: Near Malkam Cheruvu, Raidurgam, Hyderabad, Telangana
+Property type: High-rise residential apartments
+Positioning: Ultra-premium residential development
+Site area: 7 acres
+Towers: 3
+Floors per tower: 45
+Configuration: 4 BHK, 6 BHK
+Signature features: Sky Island connecting the three towers; Private/personal elevators; Lake and city views; Shear-wall construction technology
+Clubhouse/amenities: {"area_sqft": 52000, "amenities": ["banquet hall", "mini theatre", "co-working spaces", "bar counter", "cafe", "rooftop pool"]}
+RERA number: P02400005078
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-005, SRC-006
+
+PROJECT: WAVE by Raghava (RAG-WAVE)
+Location: Osman Nagar, Hyderabad (project website wording); the portfolio page labels the project Tellapur.
+Property type: High-rise residential apartments
+Positioning: Premium 3 BHK gated high-rise community
+Site area: 8.27 acres
+Towers: 4
+Floors per tower: 36
+Configuration: 3 BHK
+Unit sizes: {"minimum": 1660, "maximum": 1930, "tower_1": [1680, 1880, 1915, 1930], "towers_2_3_4": [1660, 1680, 1740, 1760, 1880, 1915, 1930]}
+Signature features: Sky Bridge on the nineteenth floor; Panoramic city views; Four-tower community
+Clubhouse/amenities: {"area_sqft": null, "amenities": ["yoga rooms", "bowling alley", "golf simulator", "rock-climbing wall", "swimming pool", "poolside cafe", "fitness areas", "children's play areas", "sports", "wellness", "work and entertainment spaces"]}
+RERA number: P01100007254
+Permit number: 002812/BP/HMDA/0578/SKP/2023
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-007, SRC-008, SRC-009
+
+PROJECT: SAGE by Raghava (RAG-SAGE)
+Location: Survey Nos. 267, 268 and 271, Kollur Village, Ramchandrapuram Mandal, Sangareddy District, Telangana 502300
+Property type: Gated villa community
+Positioning: Ultra-premium 4 BHK villas
+Site area: 20.86 acres
+Villas: 169
+Configuration: 4 BHK
+Plot sizes: 335-400 sq yd
+Signature features: Private indoor swimming pool for each villa; Home-automation provisions; Low-rise villa community; Private, landscaped setting
+Technical summary: RCC foundation and framed structure; earthquake-resistant foundation claim; solid concrete block walls; smart-lock provision; imported marble in drawing/living areas; vitrified flooring in bedrooms and kitchen; anti-skid toilet/utility flooring; treated-water and sewage-treatment systems; 100% DG backup claim; CCTV and access-control provisions; three dedicated parking spaces; one EV-charging provision per villa; 40-foot internal roads
+Clubhouse/amenities: {"structure": "Ground + 3 floors + terrace", "amenities_by_level": {"ground": ["swimming pool", "pre-function area", "provisional store", "banquet hall"], "first": ["outdoor cafe", "indoor games", "badminton court"], "second": ["mini bowling alley", "activity room"], "third": ["spa", "gentlemen's lounge", "yoga deck", "gym", "salon"], "terrace": ["seating area", "open-air theatre", "bar"], "landscape": ["cricket practice net", "edible garden", "herb garden", "aromatic garden", "nature trail", "elevated walk", "sculpture court"]}}
+RERA number: P01100008686
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-010, SRC-011, SRC-012, SRC-013, SRC-014
+
+PROJECT: CINQ by Raghava (RAG-CINQ)
+Location: Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032
+Property type: High-rise residential apartments
+Positioning: Ultra-luxury 4 BHK residences
+Site area: 7.19 acres
+Towers: 5
+Floors per tower: 61
+Configuration: 4 BHK + maid room
+Unit sizes: {"minimum": 3575, "maximum": 3644}
+Signature features: Five high-rise towers; Low apartment count per typical floor; Oasis and Sky Lounge amenity layers; Car-free stilt-level concept with basement vehicle access
+Clubhouse/amenities: {"levels": "Ground through fifth floor plus terrace", "amenities_by_level": {"ground": ["grand reception", "cafe", "banquet hall", "creche"], "first": ["co-working spaces", "private screening room"], "second": ["badminton", "squash", "VR zone", "indoor games"], "third": ["guest suites"], "fourth": ["bowling alley", "gym", "sports bar", "gentlemen's lounge"], "fifth": ["HIIT gym", "spa", "jacuzzi", "salon"], "terrace": ["infinity pool", "rooftop lounge", "party deck", "quiet sit-out"]}}
+RERA number: P02400009341
+Permit number: BPO/100/2024
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-015, SRC-016, SRC-017, SRC-018
+
+PROJECT: NOVA by Raghava (RAG-NOVA)
+Location: Financial District, Nanakramguda, Hyderabad, Telangana 500032
+Property type: High-rise residential apartments
+Positioning: Premium 3 BHK high-rise residences
+Site area: 7.02 acres
+Towers: 2
+Floors per tower: 61
+Configuration: 3 BHK
+Unit sizes: {"headline_minimum": 2038, "headline_maximum": 2605, "plan_page_values": [2038, 2044, 2379, 2387, 2566, 2571, 2576, 2591, 2595, 2600, 2601, 2606]}
+Signature features: Sky62 connecting/elevated amenity concept; Approximately 220 metres above city level (developer claim); Two high-rise towers; Multiple mid-level amenity zones
+Technical summary: RCC foundation and frame; aluminium formwork and shear-wall system; design claim for wind and seismic loads under relevant IS codes; gypsum-finished internal walls; premium teak/engineered doors and smart-lock provision; double-glazed aluminium sliding doors and windows; luxury acrylic-emulsion finishes
+Ground amenities: bus bay; adventure play area; pickleball court; pet park; co-working space; outdoor cafe
+Sky62 amenities: gym; walking/jogging track; aerial yoga/meditation corner; open-air tennis court; private lounge; viewing deck
+Data quality note: The home page states a maximum of 2,605 sq ft, while the detailed plan page includes a 2,606 sq ft layout. Store both values and surface the discrepancy during retrieval.
+RERA number: P02400010373
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-019, SRC-020, SRC-021, SRC-022
+
+3. REGULATORY AND BUYER DUE DILIGENCE
+Under the Real Estate (Regulation and Development) Act, 2016, project registration is generally required, with exemptions including projects not exceeding 500 square metres or eight apartments, subject to the Act and applicable state rules.
+- Verify the exact project and promoter on the official TG-RERA portal using the stated registration number.
+- Compare the registered plans, completion timeline, approvals and quarterly updates with sales material.
+- Request the latest sanctioned plan, cost sheet, agreement for sale, payment schedule and possession commitment.
+- Do not treat website renderings, travel times, amenity descriptions or third-party prices as guaranteed contractual terms.
+- Confirm carpet area, saleable area, parking allocation, maintenance charges, taxes and escalation clauses in writing.
+- For legal or financial decisions, use qualified professionals and current official records.
+
+4. KNOWN INFORMATION GAPS
+- Current unit availability and inventory by tower/floor
+- Official price list, base price, premiums, taxes and payment plans
+- Confirmed possession dates and construction completion percentages
+- Registered promoter legal name for each project, unless retrieved directly from TG-RERA
+- Carpet-area values for every unit layout
+- Maintenance charges, corpus fund and association rules
+- Booking, cancellation, refund, transfer and resale policies
+- Home-loan partner list and financing terms
+- Any guarantees about travel time, appreciation, rental yield or investment return
+
+5. GROUNDED FAQ
+Q1. What is the official company name used in the public website?
+A1. The public-facing brand is Raghava Projects. This dataset also uses the alias Raghava Real Estate Company for the user's project.
+Sources: SRC-001
+Q2. Where is Raghava Projects based?
+A2. Its public corporate office is listed at G Square Building beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana.
+Sources: SRC-004
+Q3. What is the official contact number?
+A3. +91 9289 212 121.
+Sources: SRC-004
+Q4. Which projects are listed on the official portfolio?
+A4. IRIS, WAVE, SAGE, CINQ and NOVA.
+Sources: SRC-003
+Q5. Which project offers 4 and 6 BHK apartments?
+A5. IRIS by Raghava.
+Sources: SRC-005
+Q6. What is the IRIS RERA number?
+A6. P02400005078.
+Sources: SRC-005
+Q7. What is special about IRIS?
+A7. Its official site highlights a Sky Island connecting three towers, 45-floor towers, private elevators and a 52,000 sq ft clubhouse.
+Sources: SRC-005
+Q8. Which project has a Sky Bridge?
+A8. WAVE by Raghava; the official site places the Sky Bridge on the nineteenth floor.
+Sources: SRC-007
+Q9. What are the WAVE apartment sizes?
+A9. The official floor-plan page lists 3 BHK layouts from 1,660 to 1,930 sq ft.
+Sources: SRC-008
+Q10. What is the WAVE RERA number?
+A10. P01100007254.
+Sources: SRC-007
+Q11. Which project contains private-pool villas?
+A11. SAGE by Raghava.
+Sources: SRC-010
+Q12. How many villas are in SAGE?
+A12. 169 villas are stated on the official project site.
+Sources: SRC-010
+Q13. What plot sizes are offered at SAGE?
+A13. The project site states 335 to 400 square yards, with east- and west-facing options.
+Sources: SRC-010
+Q14. Does SAGE provide EV charging?
+A14. The specifications state a provision for one EV charging point for each villa.
+Sources: SRC-013
+Q15. What is the SAGE RERA number?
+A15. P01100008686.
+Sources: SRC-010
+Q16. Where is CINQ located?
+A16. Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032.
+Sources: SRC-015
+Q17. How large are CINQ apartments?
+A17. The official site states 3,575 to 3,644 sq ft.
+Sources: SRC-015
+Q18. What is CINQ's configuration?
+A18. 4 BHK residences with a maid room.
+Sources: SRC-015
+Q19. What is the CINQ RERA number?
+A19. P02400009341.
+Sources: SRC-015
+Q20. How many towers does CINQ have?
+A20. Five towers.
+Sources: SRC-015
+Q21. What is NOVA's basic configuration?
+A21. Two towers, 61 floors, 3 BHK residences on a 7.02-acre site.
+Sources: SRC-019
+Q22. What is the NOVA unit-size range?
+A22. The headline range is 2,038 to 2,605 sq ft, but the plan page includes one 2,606 sq ft layout. The discrepancy should be disclosed.
+Sources: SRC-019, SRC-021
+Q23. What is Sky62?
+A23. NOVA's elevated amenity level, stated as approximately 81,000 sq ft, with fitness, leisure, viewing and outdoor-sport spaces.
+Sources: SRC-019, SRC-020
+Q24. What is the NOVA RERA number?
+A24. P02400010373.
+Sources: SRC-019
+Q25. What are the current prices?
+A25. The official pages reviewed do not provide a reliable current price list. Contact the developer and verify the latest official cost sheet.
+Sources: SRC-004
+Q26. What is the possession date for every project?
+A26. The corpus does not contain verified possession dates for every project. Check the current TG-RERA records and signed sale documents.
+Sources: SRC-024
+Q27. Is the company guaranteed to deliver every promised amenity?
+A27. No guarantee can be inferred from this dataset. Website descriptions must be checked against RERA filings, sanctioned plans and the agreement for sale.
+Sources: SRC-023, SRC-024
+Q28. Can this dataset be used as legal advice?
+A28. No. It is a public-information RAG training corpus and not legal, financial or investment advice.
+Sources: SRC-023, SRC-024
+
+6. SOURCE CATALOG
+SRC-001 | Raghava Projects - Home | https://raghava.world/ | official_company_website | confidence=high
+SRC-002 | Raghava Projects - About | https://raghava.world/About | official_company_website | confidence=high
+SRC-003 | Raghava Projects - Projects | https://raghava.world/Projects | official_company_website | confidence=high
+SRC-004 | Raghava Projects - Contact | https://raghava.world/Contact | official_company_website | confidence=high
+SRC-005 | IRIS by Raghava | https://irisbyraghava.world/ | official_project_website | confidence=high
+SRC-006 | IRIS Specifications | https://irisbyraghava.world/specifications | official_project_website | confidence=high
+SRC-007 | WAVE by Raghava | https://wavebyraghava.world/ | official_project_website | confidence=high
+SRC-008 | WAVE Floor Plans | https://wavebyraghava.world/floor-plans/ | official_project_website | confidence=high
+SRC-009 | WAVE Clubhouse | https://wavebyraghava.world/clubhouse/ | official_project_website | confidence=high
+SRC-010 | SAGE by Raghava | https://sagebyraghava.world/ | official_project_website | confidence=high
+SRC-011 | SAGE Villa | https://sagebyraghava.world/the-villa/ | official_project_website | confidence=high
+SRC-012 | SAGE Clubhouse | https://sagebyraghava.world/clubhouse/ | official_project_website | confidence=high
+SRC-013 | SAGE Specifications | https://sagebyraghava.world/specifications/ | official_project_website | confidence=high
+SRC-014 | SAGE Location | https://sagebyraghava.world/location/ | official_project_website | confidence=medium_high
+SRC-015 | CINQ by Raghava | https://cinqbyraghava.world/ | official_project_website | confidence=high
+SRC-016 | CINQ About | https://cinqbyraghava.world/about-us/ | official_project_website | confidence=medium_high
+SRC-017 | CINQ Clubhouse | https://cinqbyraghava.world/club-house/ | official_project_website | confidence=high
+SRC-018 | CINQ Features | https://cinqbyraghava.world/features/ | official_project_website | confidence=high
+SRC-019 | NOVA by Raghava | https://novabyraghava.world/ | official_project_website | confidence=high
+SRC-020 | NOVA Amenities | https://novabyraghava.world/amenities | official_project_website | confidence=high
+SRC-021 | NOVA Plans | https://novabyraghava.world/plans | official_project_website | confidence=high
+SRC-022 | NOVA Specifications | https://novabyraghava.world/specifications | official_project_website | confidence=high
+SRC-023 | Real Estate (Regulation and Development) Act, 2016 | https://www.indiacode.nic.in/bitstream/123456789/15131/1/the_real_estate_%28regulation_and_development%29_act%2C_2016.pdf | official_government_law | confidence=high
+SRC-024 | Telangana Real Estate Regulatory Authority | https://rera.telangana.gov.in/ | official_regulator_website | confidence=high

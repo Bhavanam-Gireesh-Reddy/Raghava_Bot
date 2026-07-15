@@ -1,0 +1,83 @@
+2. OFFICIAL PROJECT PORTFOLIO
+
+PROJECT: IRIS by Raghava (RAG-IRIS)
+Location: Near Malkam Cheruvu, Raidurgam, Hyderabad, Telangana
+Property type: High-rise residential apartments
+Positioning: Ultra-premium residential development
+Site area: 7 acres
+Towers: 3
+Floors per tower: 45
+Configuration: 4 BHK, 6 BHK
+Signature features: Sky Island connecting the three towers; Private/personal elevators; Lake and city views; Shear-wall construction technology
+Clubhouse/amenities: {"area_sqft": 52000, "amenities": ["banquet hall", "mini theatre", "co-working spaces", "bar counter", "cafe", "rooftop pool"]}
+RERA number: P02400005078
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-005, SRC-006
+
+PROJECT: WAVE by Raghava (RAG-WAVE)
+Location: Osman Nagar, Hyderabad (project website wording); the portfolio page labels the project Tellapur.
+Property type: High-rise residential apartments
+Positioning: Premium 3 BHK gated high-rise community
+Site area: 8.27 acres
+Towers: 4
+Floors per tower: 36
+Configuration: 3 BHK
+Unit sizes: {"minimum": 1660, "maximum": 1930, "tower_1": [1680, 1880, 1915, 1930], "towers_2_3_4": [1660, 1680, 1740, 1760, 1880, 1915, 1930]}
+Signature features: Sky Bridge on the nineteenth floor; Panoramic city views; Four-tower community
+Clubhouse/amenities: {"area_sqft": null, "amenities": ["yoga rooms", "bowling alley", "golf simulator", "rock-climbing wall", "swimming pool", "poolside cafe", "fitness areas", "children's play areas", "sports", "wellness", "work and entertainment spaces"]}
+RERA number: P01100007254
+Permit number: 002812/BP/HMDA/0578/SKP/2023
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-007, SRC-008, SRC-009
+
+PROJECT: SAGE by Raghava (RAG-SAGE)
+Location: Survey Nos. 267, 268 and 271, Kollur Village, Ramchandrapuram Mandal, Sangareddy District, Telangana 502300
+Property type: Gated villa community
+Positioning: Ultra-premium 4 BHK villas
+Site area: 20.86 acres
+Villas: 169
+Configuration: 4 BHK
+Plot sizes: 335-400 sq yd
+Signature features: Private indoor swimming pool for each villa; Home-automation provisions; Low-rise villa community; Private, landscaped setting
+Technical summary: RCC foundation and framed structure; earthquake-resistant foundation claim; solid concrete block walls; smart-lock provision; imported marble in drawing/living areas; vitrified flooring in bedrooms and kitchen; anti-skid toilet/utility flooring; treated-water and sewage-treatment systems; 100% DG backup claim; CCTV and access-control provisions; three dedicated parking spaces; one EV-charging provision per villa; 40-foot internal roads
+Clubhouse/amenities: {"structure": "Ground + 3 floors + terrace", "amenities_by_level": {"ground": ["swimming pool", "pre-function area", "provisional store", "banquet hall"], "first": ["outdoor cafe", "indoor games", "badminton court"], "second": ["mini bowling alley", "activity room"], "third": ["spa", "gentlemen's lounge", "yoga deck", "gym", "salon"], "terrace": ["seating area", "open-air theatre", "bar"], "landscape": ["cricket practice net", "edible garden", "herb garden", "aromatic garden", "nature trail", "elevated walk", "sculpture court"]}}
+RERA number: P01100008686
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-010, SRC-011, SRC-012, SRC-013, SRC-014
+
+PROJECT: CINQ by Raghava (RAG-CINQ)
+Location: Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032
+Property type: High-rise residential apartments
+Positioning: Ultra-luxury 4 BHK residences
+Site area: 7.19 acres
+Towers: 5
+Floors per tower: 61
+Configuration: 4 BHK + maid room
+Unit sizes: {"minimum": 3575, "maximum": 3644}
+Signature features: Five high-rise towers; Low apartment count per typical floor; Oasis and Sky Lounge amenity layers; Car-free stilt-level concept with basement vehicle access
+Clubhouse/amenities: {"levels": "Ground through fifth floor plus terrace", "amenities_by_level": {"ground": ["grand reception", "cafe", "banquet hall", "creche"], "first": ["co-working spaces", "private screening room"], "second": ["badminton", "squash", "VR zone", "indoor games"], "third": ["guest suites"], "fourth": ["bowling alley", "gym", "sports bar", "gentlemen's lounge"], "fifth": ["HIIT gym", "spa", "jacuzzi", "salon"], "terrace": ["infinity pool", "rooftop lounge", "party deck", "quiet sit-out"]}}
+RERA number: P02400009341
+Permit number: BPO/100/2024
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-015, SRC-016, SRC-017, SRC-018
+
+PROJECT: NOVA by Raghava (RAG-NOVA)
+Location: Financial District, Nanakramguda, Hyderabad, Telangana 500032
+Property type: High-rise residential apartments
+Positioning: Premium 3 BHK high-rise residences
+Site area: 7.02 acres
+Towers: 2
+Floors per tower: 61
+Configuration: 3 BHK
+Unit sizes: {"headline_minimum": 2038, "headline_maximum": 2605, "plan_page_values": [2038, 2044, 2379, 2387, 2566, 2571, 2576, 2591, 2595, 2600, 2601, 2606]}
+Signature features: Sky62 connecting/elevated amenity concept; Approximately 220 metres above city level (developer claim); Two high-rise towers; Multiple mid-level amenity zones
+Technical summary: RCC foundation and frame; aluminium formwork and shear-wall system; design claim for wind and seismic loads under relevant IS codes; gypsum-finished internal walls; premium teak/engineered doors and smart-lock provision; double-glazed aluminium sliding doors and windows; luxury acrylic-emulsion finishes
+Ground amenities: bus bay; adventure play area; pickleball court; pet park; co-working space; outdoor cafe
+Sky62 amenities: gym; walking/jogging track; aerial yoga/meditation corner; open-air tennis court; private lounge; viewing deck
+Data quality note: The home page states a maximum of 2,605 sq ft, while the detailed plan page includes a 2,606 sq ft layout. Store both values and surface the discrepancy during retrieval.
+RERA number: P02400010373
+Permit number: Not stated in the reviewed pages
+Pricing: Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.
+Source IDs: SRC-003, SRC-019, SRC-020, SRC-021, SRC-022

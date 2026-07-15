@@ -1,0 +1,24 @@
+RAGHAVA REAL ESTATE COMPANY (RAGHAVA PROJECTS)
+PUBLIC INFORMATION KNOWLEDGE BASE FOR RAG
+Verified on: 2026-07-15
+
+IMPORTANT SCOPE NOTE
+This is a training and retrieval corpus built from public information. It is not an official brochure, legal opinion, investment recommendation, price quotation, or contractual promise. Marketing claims are paraphrased and should be verified against TG-RERA records and signed documents.
+
+1. COMPANY PROFILE
+Canonical Name: Raghava Projects
+Dataset Alias: Raghava Real Estate Company
+Industry: Real estate development and construction
+Headquarters City: Hyderabad
+Headquarters State: Telangana
+Country: India
+Official Website: https://raghava.world/
+Official Phone: +91 9289 212 121
+General Email: info@raghava.world
+Sales Email: sales@raghava.world
+Corporate Office: 4th Floor, G Square Building, beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana, India
+Company Summary: Raghava Projects presents itself as a Hyderabad-based premium real-estate developer focused on high-rise residences, villa communities, engineering-led construction, curated amenities, and luxury urban living.
+Vision Paraphrase: Redefine premium living through landmark structures, engineering excellence, carefully selected amenities, and curated residential experiences.
+Mission Paraphrase: Bring high-quality design and service into each project, build enduring customer relationships, and strengthen the brand's position in premium real estate.
+Establishment Claim: An official project microsite states that the wider Raghava organization was established in 1991.
+Legal Identity Note: The public brand and project websites were verified. This dataset does not assert that any similarly named corporate registry entity is the exact legal promoter unless the project RERA record is checked directly.

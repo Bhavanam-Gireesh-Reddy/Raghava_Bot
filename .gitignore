@@ -1,0 +1,6 @@
+.env
+Raghava/
+__pycache__/
+dense_db/
+graph.pkl
+tfidf_retriever.pkl

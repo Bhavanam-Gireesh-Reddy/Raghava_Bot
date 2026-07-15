@@ -1,0 +1,360 @@
+{
+  "verified_on": "2026-07-15",
+  "sources": [
+    {
+      "source_id": "SRC-001",
+      "title": "Raghava Projects - Home",
+      "url": "https://raghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_company_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "brand name",
+        "project links",
+        "office location",
+        "phone"
+      ]
+    },
+    {
+      "source_id": "SRC-002",
+      "title": "Raghava Projects - About",
+      "url": "https://raghava.world/About",
+      "publisher": "Raghava Projects",
+      "source_type": "official_company_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "company positioning",
+        "vision",
+        "mission"
+      ]
+    },
+    {
+      "source_id": "SRC-003",
+      "title": "Raghava Projects - Projects",
+      "url": "https://raghava.world/Projects",
+      "publisher": "Raghava Projects",
+      "source_type": "official_company_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "official project portfolio",
+        "IRIS",
+        "WAVE",
+        "SAGE",
+        "CINQ",
+        "NOVA"
+      ]
+    },
+    {
+      "source_id": "SRC-004",
+      "title": "Raghava Projects - Contact",
+      "url": "https://raghava.world/Contact",
+      "publisher": "Raghava Projects",
+      "source_type": "official_company_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "phone",
+        "corporate office",
+        "contact process"
+      ]
+    },
+    {
+      "source_id": "SRC-005",
+      "title": "IRIS by Raghava",
+      "url": "https://irisbyraghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "IRIS scale",
+        "towers",
+        "floors",
+        "configuration",
+        "clubhouse",
+        "Sky Island",
+        "RERA",
+        "site address"
+      ]
+    },
+    {
+      "source_id": "SRC-006",
+      "title": "IRIS Specifications",
+      "url": "https://irisbyraghava.world/specifications",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "IRIS specification categories"
+      ]
+    },
+    {
+      "source_id": "SRC-007",
+      "title": "WAVE by Raghava",
+      "url": "https://wavebyraghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "WAVE concept",
+        "Sky Bridge",
+        "RERA",
+        "permit",
+        "site locality"
+      ]
+    },
+    {
+      "source_id": "SRC-008",
+      "title": "WAVE Floor Plans",
+      "url": "https://wavebyraghava.world/floor-plans/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "WAVE unit sizes",
+        "tower-wise size options"
+      ]
+    },
+    {
+      "source_id": "SRC-009",
+      "title": "WAVE Clubhouse",
+      "url": "https://wavebyraghava.world/clubhouse/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "WAVE clubhouse amenities"
+      ]
+    },
+    {
+      "source_id": "SRC-010",
+      "title": "SAGE by Raghava",
+      "url": "https://sagebyraghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "SAGE scale",
+        "villa count",
+        "plot sizes",
+        "private pools",
+        "RERA",
+        "site address"
+      ]
+    },
+    {
+      "source_id": "SRC-011",
+      "title": "SAGE Villa",
+      "url": "https://sagebyraghava.world/the-villa/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "villa positioning",
+        "home automation",
+        "private indoor pool"
+      ]
+    },
+    {
+      "source_id": "SRC-012",
+      "title": "SAGE Clubhouse",
+      "url": "https://sagebyraghava.world/clubhouse/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "floor-wise clubhouse amenities",
+        "landscape amenities"
+      ]
+    },
+    {
+      "source_id": "SRC-013",
+      "title": "SAGE Specifications",
+      "url": "https://sagebyraghava.world/specifications/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "construction",
+        "finishes",
+        "utilities",
+        "security",
+        "parking",
+        "EV provision"
+      ]
+    },
+    {
+      "source_id": "SRC-014",
+      "title": "SAGE Location",
+      "url": "https://sagebyraghava.world/location/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "medium_high",
+      "used_for": [
+        "developer-stated travel-time landmarks"
+      ],
+      "limitations": "Travel times are promotional estimates and can change with traffic and infrastructure."
+    },
+    {
+      "source_id": "SRC-015",
+      "title": "CINQ by Raghava",
+      "url": "https://cinqbyraghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "CINQ scale",
+        "towers",
+        "floors",
+        "configuration",
+        "unit sizes",
+        "RERA",
+        "permit",
+        "site address"
+      ]
+    },
+    {
+      "source_id": "SRC-016",
+      "title": "CINQ About",
+      "url": "https://cinqbyraghava.world/about-us/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "medium_high",
+      "used_for": [
+        "company-established-1991 claim",
+        "business areas"
+      ],
+      "limitations": "Establishment year is a brand statement; legal entity mapping was not independently confirmed."
+    },
+    {
+      "source_id": "SRC-017",
+      "title": "CINQ Clubhouse",
+      "url": "https://cinqbyraghava.world/club-house/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "floor-wise clubhouse amenities"
+      ]
+    },
+    {
+      "source_id": "SRC-018",
+      "title": "CINQ Features",
+      "url": "https://cinqbyraghava.world/features/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "stilt",
+        "oasis",
+        "sky lounge",
+        "sports and landscape amenities"
+      ]
+    },
+    {
+      "source_id": "SRC-019",
+      "title": "NOVA by Raghava",
+      "url": "https://novabyraghava.world/",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "NOVA scale",
+        "towers",
+        "floors",
+        "configuration",
+        "area range",
+        "Sky62",
+        "RERA",
+        "site address"
+      ]
+    },
+    {
+      "source_id": "SRC-020",
+      "title": "NOVA Amenities",
+      "url": "https://novabyraghava.world/amenities",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "ground amenities",
+        "Sky62",
+        "mid-level amenity areas",
+        "Club Nova"
+      ]
+    },
+    {
+      "source_id": "SRC-021",
+      "title": "NOVA Plans",
+      "url": "https://novabyraghava.world/plans",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "tower-facing options",
+        "unit-size records",
+        "master plan area"
+      ]
+    },
+    {
+      "source_id": "SRC-022",
+      "title": "NOVA Specifications",
+      "url": "https://novabyraghava.world/specifications",
+      "publisher": "Raghava Projects",
+      "source_type": "official_project_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "structure",
+        "joinery",
+        "painting",
+        "glazing"
+      ]
+    },
+    {
+      "source_id": "SRC-023",
+      "title": "Real Estate (Regulation and Development) Act, 2016",
+      "url": "https://www.indiacode.nic.in/bitstream/123456789/15131/1/the_real_estate_%28regulation_and_development%29_act%2C_2016.pdf",
+      "publisher": "India Code",
+      "source_type": "official_government_law",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "general RERA registration threshold",
+        "buyer due-diligence context"
+      ]
+    },
+    {
+      "source_id": "SRC-024",
+      "title": "Telangana Real Estate Regulatory Authority",
+      "url": "https://rera.telangana.gov.in/",
+      "publisher": "Government of Telangana",
+      "source_type": "official_regulator_website",
+      "accessed_on": "2026-07-15",
+      "confidence": "high",
+      "used_for": [
+        "official verification portal",
+        "complaint and registration services"
+      ]
+    }
+  ]
+}

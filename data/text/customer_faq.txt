@@ -1,0 +1,114 @@
+RAGHAVA PROJECTS - GROUNDED FAQ
+Verified on: 2026-07-15
+
+Q1. What is the official company name used in the public website?
+A1. The public-facing brand is Raghava Projects. This dataset also uses the alias Raghava Real Estate Company for the user's project.
+Sources: SRC-001
+
+Q2. Where is Raghava Projects based?
+A2. Its public corporate office is listed at G Square Building beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana.
+Sources: SRC-004
+
+Q3. What is the official contact number?
+A3. +91 9289 212 121.
+Sources: SRC-004
+
+Q4. Which projects are listed on the official portfolio?
+A4. IRIS, WAVE, SAGE, CINQ and NOVA.
+Sources: SRC-003
+
+Q5. Which project offers 4 and 6 BHK apartments?
+A5. IRIS by Raghava.
+Sources: SRC-005
+
+Q6. What is the IRIS RERA number?
+A6. P02400005078.
+Sources: SRC-005
+
+Q7. What is special about IRIS?
+A7. Its official site highlights a Sky Island connecting three towers, 45-floor towers, private elevators and a 52,000 sq ft clubhouse.
+Sources: SRC-005
+
+Q8. Which project has a Sky Bridge?
+A8. WAVE by Raghava; the official site places the Sky Bridge on the nineteenth floor.
+Sources: SRC-007
+
+Q9. What are the WAVE apartment sizes?
+A9. The official floor-plan page lists 3 BHK layouts from 1,660 to 1,930 sq ft.
+Sources: SRC-008
+
+Q10. What is the WAVE RERA number?
+A10. P01100007254.
+Sources: SRC-007
+
+Q11. Which project contains private-pool villas?
+A11. SAGE by Raghava.
+Sources: SRC-010
+
+Q12. How many villas are in SAGE?
+A12. 169 villas are stated on the official project site.
+Sources: SRC-010
+
+Q13. What plot sizes are offered at SAGE?
+A13. The project site states 335 to 400 square yards, with east- and west-facing options.
+Sources: SRC-010
+
+Q14. Does SAGE provide EV charging?
+A14. The specifications state a provision for one EV charging point for each villa.
+Sources: SRC-013
+
+Q15. What is the SAGE RERA number?
+A15. P01100008686.
+Sources: SRC-010
+
+Q16. Where is CINQ located?
+A16. Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032.
+Sources: SRC-015
+
+Q17. How large are CINQ apartments?
+A17. The official site states 3,575 to 3,644 sq ft.
+Sources: SRC-015
+
+Q18. What is CINQ's configuration?
+A18. 4 BHK residences with a maid room.
+Sources: SRC-015
+
+Q19. What is the CINQ RERA number?
+A19. P02400009341.
+Sources: SRC-015
+
+Q20. How many towers does CINQ have?
+A20. Five towers.
+Sources: SRC-015
+
+Q21. What is NOVA's basic configuration?
+A21. Two towers, 61 floors, 3 BHK residences on a 7.02-acre site.
+Sources: SRC-019
+
+Q22. What is the NOVA unit-size range?
+A22. The headline range is 2,038 to 2,605 sq ft, but the plan page includes one 2,606 sq ft layout. The discrepancy should be disclosed.
+Sources: SRC-019, SRC-021
+
+Q23. What is Sky62?
+A23. NOVA's elevated amenity level, stated as approximately 81,000 sq ft, with fitness, leisure, viewing and outdoor-sport spaces.
+Sources: SRC-019, SRC-020
+
+Q24. What is the NOVA RERA number?
+A24. P02400010373.
+Sources: SRC-019
+
+Q25. What are the current prices?
+A25. The official pages reviewed do not provide a reliable current price list. Contact the developer and verify the latest official cost sheet.
+Sources: SRC-004
+
+Q26. What is the possession date for every project?
+A26. The corpus does not contain verified possession dates for every project. Check the current TG-RERA records and signed sale documents.
+Sources: SRC-024
+
+Q27. Is the company guaranteed to deliver every promised amenity?
+A27. No guarantee can be inferred from this dataset. Website descriptions must be checked against RERA filings, sanctioned plans and the agreement for sale.
+Sources: SRC-023, SRC-024
+
+Q28. Can this dataset be used as legal advice?
+A28. No. It is a public-information RAG training corpus and not legal, financial or investment advice.
+Sources: SRC-023, SRC-024

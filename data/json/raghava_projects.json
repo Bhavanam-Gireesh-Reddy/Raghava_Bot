@@ -1,0 +1,521 @@
+{
+  "verified_on": "2026-07-15",
+  "projects": [
+    {
+      "project_id": "RAG-IRIS",
+      "name": "IRIS by Raghava",
+      "location": {
+        "locality": "Raidurgam",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "site_address": "Near Malkam Cheruvu, Raidurgam, Hyderabad, Telangana"
+      },
+      "property_type": "High-rise residential apartments",
+      "positioning": "Ultra-premium residential development",
+      "status": "Publicly presented as an active project; exact construction/possession status should be verified with the developer and TG-RERA.",
+      "site_area": {
+        "value": 7,
+        "unit": "acres"
+      },
+      "towers": 3,
+      "floors_per_tower": 45,
+      "configuration": [
+        "4 BHK",
+        "6 BHK"
+      ],
+      "unit_size_sqft": null,
+      "unit_size_note": "A reliable size range was not clearly stated in the parsed official pages used for this dataset.",
+      "signature_features": [
+        "Sky Island connecting the three towers",
+        "Private/personal elevators",
+        "Lake and city views",
+        "Shear-wall construction technology"
+      ],
+      "clubhouse": {
+        "area_sqft": 52000,
+        "amenities": [
+          "banquet hall",
+          "mini theatre",
+          "co-working spaces",
+          "bar counter",
+          "cafe",
+          "rooftop pool"
+        ]
+      },
+      "specification_categories": [
+        "foundation and structural frame",
+        "superstructure",
+        "plastering",
+        "joinery",
+        "painting",
+        "flooring",
+        "wall cladding",
+        "hand railing",
+        "kitchen and utility",
+        "modular kitchen",
+        "toilets",
+        "internet/cable/telecom",
+        "lifts",
+        "water and sewage systems",
+        "generator backup",
+        "security and BMS",
+        "parking management",
+        "LPG",
+        "electrical",
+        "plumbing",
+        "fire and safety",
+        "HVAC",
+        "home automation",
+        "heat-pump provision",
+        "central-vacuum provision"
+      ],
+      "rera_number": "P02400005078",
+      "permit_number": null,
+      "pricing": "Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.",
+      "source_ids": [
+        "SRC-003",
+        "SRC-005",
+        "SRC-006"
+      ],
+      "confidence": "high"
+    },
+    {
+      "project_id": "RAG-WAVE",
+      "name": "WAVE by Raghava",
+      "location": {
+        "locality": "Osman Nagar / Tellapur area",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "site_address": "Osman Nagar, Hyderabad (project website wording); the portfolio page labels the project Tellapur."
+      },
+      "property_type": "High-rise residential apartments",
+      "positioning": "Premium 3 BHK gated high-rise community",
+      "status": "Publicly presented as an active project; exact construction/possession status should be verified with the developer and TG-RERA.",
+      "site_area": {
+        "value": 8.27,
+        "unit": "acres"
+      },
+      "towers": 4,
+      "floors_per_tower": 36,
+      "configuration": [
+        "3 BHK"
+      ],
+      "unit_size_sqft": {
+        "minimum": 1660,
+        "maximum": 1930,
+        "tower_1": [
+          1680,
+          1880,
+          1915,
+          1930
+        ],
+        "towers_2_3_4": [
+          1660,
+          1680,
+          1740,
+          1760,
+          1880,
+          1915,
+          1930
+        ]
+      },
+      "signature_features": [
+        "Sky Bridge on the nineteenth floor",
+        "Panoramic city views",
+        "Four-tower community"
+      ],
+      "clubhouse": {
+        "area_sqft": null,
+        "amenities": [
+          "yoga rooms",
+          "bowling alley",
+          "golf simulator",
+          "rock-climbing wall",
+          "swimming pool",
+          "poolside cafe",
+          "fitness areas",
+          "children's play areas",
+          "sports",
+          "wellness",
+          "work and entertainment spaces"
+        ]
+      },
+      "rera_number": "P01100007254",
+      "permit_number": "002812/BP/HMDA/0578/SKP/2023",
+      "pricing": "Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.",
+      "source_ids": [
+        "SRC-003",
+        "SRC-007",
+        "SRC-008",
+        "SRC-009"
+      ],
+      "confidence": "high"
+    },
+    {
+      "project_id": "RAG-SAGE",
+      "name": "SAGE by Raghava",
+      "location": {
+        "locality": "Kollur",
+        "city": "Hyderabad Metropolitan Region",
+        "state": "Telangana",
+        "site_address": "Survey Nos. 267, 268 and 271, Kollur Village, Ramchandrapuram Mandal, Sangareddy District, Telangana 502300"
+      },
+      "property_type": "Gated villa community",
+      "positioning": "Ultra-premium 4 BHK villas",
+      "status": "Publicly presented as an active project; exact construction/possession status should be verified with the developer and TG-RERA.",
+      "site_area": {
+        "value": 20.86,
+        "unit": "acres"
+      },
+      "villas": 169,
+      "villa_structure": "G+2",
+      "configuration": [
+        "4 BHK"
+      ],
+      "plot_size_sqyd": {
+        "minimum": 335,
+        "maximum": 400,
+        "facings": [
+          "east",
+          "west"
+        ]
+      },
+      "parking_per_villa": 3,
+      "signature_features": [
+        "Private indoor swimming pool for each villa",
+        "Home-automation provisions",
+        "Low-rise villa community",
+        "Private, landscaped setting"
+      ],
+      "clubhouse": {
+        "structure": "Ground + 3 floors + terrace",
+        "amenities_by_level": {
+          "ground": [
+            "swimming pool",
+            "pre-function area",
+            "provisional store",
+            "banquet hall"
+          ],
+          "first": [
+            "outdoor cafe",
+            "indoor games",
+            "badminton court"
+          ],
+          "second": [
+            "mini bowling alley",
+            "activity room"
+          ],
+          "third": [
+            "spa",
+            "gentlemen's lounge",
+            "yoga deck",
+            "gym",
+            "salon"
+          ],
+          "terrace": [
+            "seating area",
+            "open-air theatre",
+            "bar"
+          ],
+          "landscape": [
+            "cricket practice net",
+            "edible garden",
+            "herb garden",
+            "aromatic garden",
+            "nature trail",
+            "elevated walk",
+            "sculpture court"
+          ]
+        }
+      },
+      "technical_summary": [
+        "RCC foundation and framed structure",
+        "earthquake-resistant foundation claim",
+        "solid concrete block walls",
+        "smart-lock provision",
+        "imported marble in drawing/living areas",
+        "vitrified flooring in bedrooms and kitchen",
+        "anti-skid toilet/utility flooring",
+        "treated-water and sewage-treatment systems",
+        "100% DG backup claim",
+        "CCTV and access-control provisions",
+        "three dedicated parking spaces",
+        "one EV-charging provision per villa",
+        "40-foot internal roads"
+      ],
+      "rera_number": "P01100008686",
+      "permit_number": null,
+      "travel_time_note": "Nearby travel times published by the developer are approximate and traffic-dependent.",
+      "pricing": "Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.",
+      "source_ids": [
+        "SRC-003",
+        "SRC-010",
+        "SRC-011",
+        "SRC-012",
+        "SRC-013",
+        "SRC-014"
+      ],
+      "confidence": "high"
+    },
+    {
+      "project_id": "RAG-CINQ",
+      "name": "CINQ by Raghava",
+      "location": {
+        "locality": "Financial District / Nanakramguda",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "site_address": "Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032"
+      },
+      "property_type": "High-rise residential apartments",
+      "positioning": "Ultra-luxury 4 BHK residences",
+      "status": "Publicly presented as an active project; exact construction/possession status should be verified with the developer and TG-RERA.",
+      "site_area": {
+        "value": 7.19,
+        "unit": "acres"
+      },
+      "towers": 5,
+      "floors_per_tower": 61,
+      "apartments_per_floor": 4,
+      "configuration": [
+        "4 BHK + maid room"
+      ],
+      "unit_size_sqft": {
+        "minimum": 3575,
+        "maximum": 3644
+      },
+      "signature_features": [
+        "Five high-rise towers",
+        "Low apartment count per typical floor",
+        "Oasis and Sky Lounge amenity layers",
+        "Car-free stilt-level concept with basement vehicle access"
+      ],
+      "clubhouse": {
+        "levels": "Ground through fifth floor plus terrace",
+        "amenities_by_level": {
+          "ground": [
+            "grand reception",
+            "cafe",
+            "banquet hall",
+            "creche"
+          ],
+          "first": [
+            "co-working spaces",
+            "private screening room"
+          ],
+          "second": [
+            "badminton",
+            "squash",
+            "VR zone",
+            "indoor games"
+          ],
+          "third": [
+            "guest suites"
+          ],
+          "fourth": [
+            "bowling alley",
+            "gym",
+            "sports bar",
+            "gentlemen's lounge"
+          ],
+          "fifth": [
+            "HIIT gym",
+            "spa",
+            "jacuzzi",
+            "salon"
+          ],
+          "terrace": [
+            "infinity pool",
+            "rooftop lounge",
+            "party deck",
+            "quiet sit-out"
+          ]
+        }
+      },
+      "site_amenities": [
+        "senior lounge",
+        "business lounge",
+        "multipurpose lounge",
+        "kids lounge",
+        "teen lounge",
+        "jacuzzi and pool",
+        "vertical garden",
+        "play area",
+        "walking and running track",
+        "viewing deck",
+        "party area",
+        "yoga and meditation deck",
+        "sky observatory",
+        "juice bar",
+        "pickleball",
+        "tennis",
+        "skate park",
+        "basketball",
+        "practice net",
+        "rock-climbing wall",
+        "pet garden"
+      ],
+      "rera_number": "P02400009341",
+      "permit_number": "BPO/100/2024",
+      "pricing": "Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.",
+      "source_ids": [
+        "SRC-003",
+        "SRC-015",
+        "SRC-016",
+        "SRC-017",
+        "SRC-018"
+      ],
+      "confidence": "high"
+    },
+    {
+      "project_id": "RAG-NOVA",
+      "name": "NOVA by Raghava",
+      "location": {
+        "locality": "Financial District / Nanakramguda",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "site_address": "Financial District, Nanakramguda, Hyderabad, Telangana 500032"
+      },
+      "property_type": "High-rise residential apartments",
+      "positioning": "Premium 3 BHK high-rise residences",
+      "status": "Publicly presented as a current project; exact launch, construction and possession milestones should be verified with the developer and TG-RERA.",
+      "site_area": {
+        "value": 7.02,
+        "unit": "acres"
+      },
+      "towers": 2,
+      "floors_per_tower": 61,
+      "configuration": [
+        "3 BHK"
+      ],
+      "unit_size_sqft": {
+        "headline_minimum": 2038,
+        "headline_maximum": 2605,
+        "plan_page_values": [
+          2038,
+          2044,
+          2379,
+          2387,
+          2566,
+          2571,
+          2576,
+          2591,
+          2595,
+          2600,
+          2601,
+          2606
+        ]
+      },
+      "data_quality_note": "The home page states a maximum of 2,605 sq ft, while the detailed plan page includes a 2,606 sq ft layout. Store both values and surface the discrepancy during retrieval.",
+      "tower_plans": {
+        "tower_a": {
+          "east_facing": [
+            2595,
+            2606,
+            2387
+          ],
+          "west_facing": [
+            2576,
+            2601,
+            2038
+          ]
+        },
+        "tower_b": {
+          "east_facing": [
+            2571,
+            2600,
+            2379,
+            2044
+          ],
+          "west_facing": [
+            2591,
+            2566
+          ]
+        }
+      },
+      "signature_features": [
+        "Sky62 connecting/elevated amenity concept",
+        "Approximately 220 metres above city level (developer claim)",
+        "Two high-rise towers",
+        "Multiple mid-level amenity zones"
+      ],
+      "amenity_areas": {
+        "sky62_sqft": 81000,
+        "mid_level_sqft": 20295,
+        "club_nova_sqft": 50900,
+        "club_nova_structure": "G+4 plus terrace"
+      },
+      "ground_amenities": [
+        "bus bay",
+        "adventure play area",
+        "pickleball court",
+        "pet park",
+        "co-working space",
+        "outdoor cafe"
+      ],
+      "sky62_amenities": [
+        "gym",
+        "walking/jogging track",
+        "aerial yoga/meditation corner",
+        "open-air tennis court",
+        "private lounge",
+        "viewing deck"
+      ],
+      "club_nova_by_level": {
+        "ground": [
+          "supermarket",
+          "pre-function lobby",
+          "banquet hall"
+        ],
+        "first": [
+          "multipurpose hall",
+          "pre-function lobby",
+          "theatre/screening room",
+          "coffee and reading lounge"
+        ],
+        "second": [
+          "indoor badminton",
+          "indoor games",
+          "table tennis",
+          "golf simulator"
+        ],
+        "third": [
+          "co-working space",
+          "conference room",
+          "board room"
+        ],
+        "fourth": [
+          "guest suites",
+          "salon",
+          "spa"
+        ],
+        "terrace": [
+          "viewing decks",
+          "open-terrace seating",
+          "party area and bar counter",
+          "barbecue deck",
+          "outdoor dining/social zone"
+        ]
+      },
+      "technical_summary": [
+        "RCC foundation and frame",
+        "aluminium formwork and shear-wall system",
+        "design claim for wind and seismic loads under relevant IS codes",
+        "gypsum-finished internal walls",
+        "premium teak/engineered doors and smart-lock provision",
+        "double-glazed aluminium sliding doors and windows",
+        "luxury acrylic-emulsion finishes"
+      ],
+      "rera_number": "P02400010373",
+      "permit_number": null,
+      "pricing": "Not published in the official pages reviewed; contact the developer and verify the latest cost sheet.",
+      "source_ids": [
+        "SRC-003",
+        "SRC-019",
+        "SRC-020",
+        "SRC-021",
+        "SRC-022"
+      ],
+      "confidence": "high"
+    }
+  ]
+}

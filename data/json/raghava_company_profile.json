@@ -1,0 +1,33 @@
+{
+  "canonical_name": "Raghava Projects",
+  "dataset_alias": "Raghava Real Estate Company",
+  "industry": "Real estate development and construction",
+  "headquarters_city": "Hyderabad",
+  "headquarters_state": "Telangana",
+  "country": "India",
+  "official_website": "https://raghava.world/",
+  "official_phone": "+91 9289 212 121",
+  "general_email": "info@raghava.world",
+  "sales_email": "sales@raghava.world",
+  "corporate_office": "4th Floor, G Square Building, beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana, India",
+  "official_project_portfolio": [
+    "IRIS by Raghava",
+    "WAVE by Raghava",
+    "SAGE by Raghava",
+    "CINQ by Raghava",
+    "NOVA by Raghava"
+  ],
+  "company_summary": "Raghava Projects presents itself as a Hyderabad-based premium real-estate developer focused on high-rise residences, villa communities, engineering-led construction, curated amenities, and luxury urban living.",
+  "vision_paraphrase": "Redefine premium living through landmark structures, engineering excellence, carefully selected amenities, and curated residential experiences.",
+  "mission_paraphrase": "Bring high-quality design and service into each project, build enduring customer relationships, and strengthen the brand's position in premium real estate.",
+  "establishment_claim": "An official project microsite states that the wider Raghava organization was established in 1991.",
+  "establishment_claim_status": "official_brand_claim_not_independently_mapped_to_a_specific_legal_entity",
+  "legal_identity_note": "The public brand and project websites were verified. This dataset does not assert that any similarly named corporate registry entity is the exact legal promoter unless the project RERA record is checked directly.",
+  "sources": [
+    "SRC-001",
+    "SRC-002",
+    "SRC-003",
+    "SRC-004",
+    "SRC-016"
+  ]
+}

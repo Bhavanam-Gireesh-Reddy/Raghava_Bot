@@ -1,0 +1,192 @@
+RAG EVALUATION QUESTIONS
+Verified on: 2026-07-15
+
+EVAL-001: What is the official company name used in the public website?
+Expected: The public-facing brand is Raghava Projects. This dataset also uses the alias Raghava Real Estate Company for the user's project.
+Answerability: answerable
+Sources: SRC-001
+
+EVAL-002: Where is Raghava Projects based?
+Expected: Its public corporate office is listed at G Square Building beside Raidurgam Police Station, Serilingampally, Hyderabad, Telangana.
+Answerability: answerable
+Sources: SRC-004
+
+EVAL-003: What is the official contact number?
+Expected: +91 9289 212 121.
+Answerability: answerable
+Sources: SRC-004
+
+EVAL-004: Which projects are listed on the official portfolio?
+Expected: IRIS, WAVE, SAGE, CINQ and NOVA.
+Answerability: answerable
+Sources: SRC-003
+
+EVAL-005: Which project offers 4 and 6 BHK apartments?
+Expected: IRIS by Raghava.
+Answerability: answerable
+Sources: SRC-005
+
+EVAL-006: What is the IRIS RERA number?
+Expected: P02400005078.
+Answerability: answerable
+Sources: SRC-005
+
+EVAL-007: What is special about IRIS?
+Expected: Its official site highlights a Sky Island connecting three towers, 45-floor towers, private elevators and a 52,000 sq ft clubhouse.
+Answerability: answerable
+Sources: SRC-005
+
+EVAL-008: Which project has a Sky Bridge?
+Expected: WAVE by Raghava; the official site places the Sky Bridge on the nineteenth floor.
+Answerability: answerable
+Sources: SRC-007
+
+EVAL-009: What are the WAVE apartment sizes?
+Expected: The official floor-plan page lists 3 BHK layouts from 1,660 to 1,930 sq ft.
+Answerability: answerable
+Sources: SRC-008
+
+EVAL-010: What is the WAVE RERA number?
+Expected: P01100007254.
+Answerability: answerable
+Sources: SRC-007
+
+EVAL-011: Which project contains private-pool villas?
+Expected: SAGE by Raghava.
+Answerability: answerable
+Sources: SRC-010
+
+EVAL-012: How many villas are in SAGE?
+Expected: 169 villas are stated on the official project site.
+Answerability: answerable
+Sources: SRC-010
+
+EVAL-013: What plot sizes are offered at SAGE?
+Expected: The project site states 335 to 400 square yards, with east- and west-facing options.
+Answerability: answerable
+Sources: SRC-010
+
+EVAL-014: Does SAGE provide EV charging?
+Expected: The specifications state a provision for one EV charging point for each villa.
+Answerability: answerable
+Sources: SRC-013
+
+EVAL-015: What is the SAGE RERA number?
+Expected: P01100008686.
+Answerability: answerable
+Sources: SRC-010
+
+EVAL-016: Where is CINQ located?
+Expected: Road No. 2, Financial District, Nanakramguda, Hyderabad, Telangana 500032.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-017: How large are CINQ apartments?
+Expected: The official site states 3,575 to 3,644 sq ft.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-018: What is CINQ's configuration?
+Expected: 4 BHK residences with a maid room.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-019: What is the CINQ RERA number?
+Expected: P02400009341.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-020: How many towers does CINQ have?
+Expected: Five towers.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-021: What is NOVA's basic configuration?
+Expected: Two towers, 61 floors, 3 BHK residences on a 7.02-acre site.
+Answerability: answerable
+Sources: SRC-019
+
+EVAL-022: What is the NOVA unit-size range?
+Expected: The headline range is 2,038 to 2,605 sq ft, but the plan page includes one 2,606 sq ft layout. The discrepancy should be disclosed.
+Answerability: answerable
+Sources: SRC-019, SRC-021
+
+EVAL-023: What is Sky62?
+Expected: NOVA's elevated amenity level, stated as approximately 81,000 sq ft, with fitness, leisure, viewing and outdoor-sport spaces.
+Answerability: answerable
+Sources: SRC-019, SRC-020
+
+EVAL-024: What is the NOVA RERA number?
+Expected: P02400010373.
+Answerability: answerable
+Sources: SRC-019
+
+EVAL-025: What are the current prices?
+Expected: The official pages reviewed do not provide a reliable current price list. Contact the developer and verify the latest official cost sheet.
+Answerability: answerable
+Sources: SRC-004
+
+EVAL-026: What is the possession date for every project?
+Expected: The corpus does not contain verified possession dates for every project. Check the current TG-RERA records and signed sale documents.
+Answerability: answerable
+Sources: SRC-024
+
+EVAL-027: Is the company guaranteed to deliver every promised amenity?
+Expected: No guarantee can be inferred from this dataset. Website descriptions must be checked against RERA filings, sanctioned plans and the agreement for sale.
+Answerability: answerable
+Sources: SRC-023, SRC-024
+
+EVAL-028: Can this dataset be used as legal advice?
+Expected: No. It is a public-information RAG training corpus and not legal, financial or investment advice.
+Answerability: answerable
+Sources: SRC-023, SRC-024
+
+EVAL-029: Which project has the largest stated site area?
+Expected: SAGE by Raghava at 20.86 acres.
+Answerability: answerable
+Sources: SRC-010
+
+EVAL-030: Which apartment project has the most towers?
+Expected: CINQ by Raghava with five towers.
+Answerability: answerable
+Sources: SRC-015
+
+EVAL-031: Which projects are in or associated with Hyderabad's Financial District?
+Expected: CINQ and NOVA are explicitly located in the Financial District/Nanakramguda.
+Answerability: answerable
+Sources: SRC-015, SRC-019
+
+EVAL-032: Which project offers the smallest published apartment layout in this corpus?
+Expected: WAVE, with a 1,660 sq ft 3 BHK layout.
+Answerability: answerable
+Sources: SRC-008
+
+EVAL-033: Is NOVA's maximum unit size 2,605 or 2,606 sq ft?
+Expected: Both values appear on official pages: the home page says 2,605 sq ft, while the plan page lists a 2,606 sq ft layout. The answer should report the inconsistency.
+Answerability: answerable
+Sources: SRC-019, SRC-021
+
+EVAL-034: Who are the current directors of the legal promoter?
+Expected: Insufficient evidence in this corpus. Retrieve the exact promoter record from TG-RERA or official corporate filings.
+Answerability: unanswerable
+Sources: SRC-024
+
+EVAL-035: What will a 3 BHK NOVA apartment cost in December 2027?
+Expected: Insufficient evidence. Future pricing is not available and should not be predicted from this corpus.
+Answerability: unanswerable
+Sources: none
+
+EVAL-036: What annual rental yield does CINQ guarantee?
+Expected: Insufficient evidence. The official sources reviewed do not provide a guaranteed rental yield.
+Answerability: unanswerable
+Sources: none
+
+EVAL-037: Which bank offers the lowest home-loan interest rate for SAGE today?
+Expected: Insufficient evidence. Current bank rates are outside this corpus and require live verification.
+Answerability: unanswerable
+Sources: none
+
+EVAL-038: Is every travel-time estimate on the SAGE location page always accurate?
+Expected: No. Those are developer-stated estimates and can vary with traffic, route and infrastructure conditions.
+Answerability: answerable
+Sources: SRC-014

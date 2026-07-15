@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Raghava Real Estate — Chat</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: #f0f2f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        .chat-container {
+            width: 420px;
+            max-width: 95%;
+            background: #fff;
+            border-radius: 14px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            height: 600px;
+        }
+
+        .chat-header {
+            background: #1a5d3a;
+            color: #fff;
+            padding: 16px 20px;
+        }
+
+        .chat-header h2 { font-size: 18px; }
+        .chat-header p { font-size: 12px; opacity: 0.85; margin-top: 2px; }
+
+        .chat-body {
+            flex: 1;
+            padding: 16px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            background: #f7f9f8;
+        }
+
+        .msg {
+            max-width: 80%;
+            padding: 10px 14px;
+            border-radius: 14px;
+            font-size: 14px;
+            line-height: 1.4;
+            word-wrap: break-word;
+        }
+
+        .user-msg {
+            align-self: flex-end;
+            background: #1a5d3a;
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+
+        .bot-msg {
+            align-self: flex-start;
+            background: #e4e6eb;
+            color: #111;
+            border-bottom-left-radius: 4px;
+        }
+
+        .chat-form {
+            display: flex;
+            border-top: 1px solid #e0e0e0;
+            padding: 10px;
+            gap: 8px;
+        }
+
+        .chat-form input {
+            flex: 1;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            outline: none;
+            font-size: 14px;
+        }
+
+        .chat-form button {
+            background: #1a5d3a;
+            color: #fff;
+            border: none;
+            padding: 0 20px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .chat-form button:hover { background: #14472c; }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Raghava Real Estate</h2>
+            <p>Ask me anything about our company 🏡</p>
+        </div>
+
+        <div class="chat-body" id="chatBody">
+            <div class="msg bot-msg">Hello! Welcome to Raghava Real Estate. How can I help you today?</div>
+        </div>
+
+        <form class="chat-form" id="chatForm">
+            <input
+                type="text"
+                id="queryInput"
+                placeholder="Type your question..."
+                autocomplete="off"
+                required
+            />
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+    <script>
+        const chatForm = document.getElementById("chatForm");
+        const queryInput = document.getElementById("queryInput");
+        const chatBody = document.getElementById("chatBody");
+
+        function addMessage(text, sender) {
+            const msg = document.createElement("div");
+            msg.classList.add("msg", sender === "user" ? "user-msg" : "bot-msg");
+            msg.textContent = text;
+            chatBody.appendChild(msg);
+            chatBody.scrollTop = chatBody.scrollHeight;
+        }
+
+        chatForm.addEventListener("submit", async (e) => {
+            e.preventDefault();
+            const query = queryInput.value.trim();
+            if (!query) return;
+
+            // Show user's message
+            addMessage(query, "user");
+            queryInput.value = "";
+
+            try {
+                const res = await fetch("/ask", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                    body: new URLSearchParams({ query })
+                });
+
+                const data = await res.json();
+                addMessage(data.response || "...", "bot");
+            } catch (err) {
+                addMessage("Something went wrong. Please try again.", "bot");
+            }
+        });
+    </script>
+</body>
+</html>
