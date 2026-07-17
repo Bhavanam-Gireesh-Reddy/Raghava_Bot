@@ -17,3 +17,4 @@ cassandra-driver
 scikit-learn
 langchain-ollama
 flask
+reportlab

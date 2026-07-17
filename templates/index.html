@@ -70,6 +70,17 @@
             border-bottom-left-radius: 4px;
         }
 
+        .download-link {
+            align-self: flex-start;
+            color: #1a5d3a;
+            font-size: 13px;
+            font-weight: 600;
+            text-decoration: none;
+            margin: -4px 0 6px 4px;
+        }
+
+        .download-link:hover { text-decoration: underline; }
+
         .chat-form {
             display: flex;
             border-top: 1px solid #e0e0e0;
@@ -135,6 +146,15 @@
             chatBody.scrollTop = chatBody.scrollHeight;
         }
 
+        function addDownloadLink(url, label) {
+            const link = document.createElement("a");
+            link.classList.add("download-link");
+            link.href = url;
+            link.textContent = label;
+            chatBody.appendChild(link);
+            chatBody.scrollTop = chatBody.scrollHeight;
+        }
+
         chatForm.addEventListener("submit", async (e) => {
             e.preventDefault();
             const query = queryInput.value.trim();
@@ -153,6 +173,14 @@
 
                 const data = await res.json();
                 addMessage(data.response || "...", "bot");
+                if (data.pdf_urls && data.pdf_urls.length) {
+                    data.pdf_urls.forEach((url, index) => {
+                        const label = data.pdf_urls.length === 1
+                            ? "Download PDF"
+                            : `Download PDF ${index + 1}`;
+                        addDownloadLink(url, label);
+                    });
+                }
             } catch (err) {
                 addMessage("Something went wrong. Please try again.", "bot");
             }

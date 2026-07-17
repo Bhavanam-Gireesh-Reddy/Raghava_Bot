@@ -1,0 +1,22 @@
+{
+  "create_pdf": {
+    "attributes": [
+      "content"
+    ],
+    "description": "Creates a PDF file using the provided text content and returns the generated PDF file name."
+  },
+  "create_text_file": {
+    "attributes": [
+      "content"
+    ],
+    "description": "Creates a text file using the provided text content and returns the generated text file name."
+  },
+  "send_email": {
+    "attributes": [
+      "receiver_email",
+      "content",
+      "attachments"
+    ],
+    "description": "Sends the provided content as an email to the specified receiver email address. Attachments are optional and should contain generated file names such as output.pdf or output.txt."
+  }
+}
