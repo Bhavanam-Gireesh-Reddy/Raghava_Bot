@@ -18,3 +18,4 @@ scikit-learn
 langchain-ollama
 flask
 reportlab
+langchain-google-genai
